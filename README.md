@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm saman</h1>
-<h3 align="center">A passionate backend developer from iran</h3>
+<h3 align="center">I'm a backend developer from iran</h3>
 
 
 - 🔭 I’m currently working on **blog project**
